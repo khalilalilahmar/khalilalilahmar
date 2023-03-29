@@ -4,6 +4,7 @@
 - 📫 How to reach me : k.alilahmar@esi-sba.dz
 
 Flutter Developper at INSIDJAM ERP 
+Currently working with gitlab 
 
 Computer Science Engineer graduated from https://www.esi-sba.dz
 
